@@ -25,4 +25,5 @@ This project aims to analyze and visualize data related to the Indian general el
 **Tools and Technologies:**
 
 **Python:** Pandas, NumPy, Matplotlib/Seaborn
+
 **Power BI:** For visualizing total votes count and creating interactive dashboards
