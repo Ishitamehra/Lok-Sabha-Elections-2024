@@ -21,6 +21,13 @@ This project aims to analyze and visualize data related to the Indian general el
 
 **Interactive Dashboards:** Use Power BI to explore data visually, with filters for detailed insights.
 
+![image](https://github.com/user-attachments/assets/a5a9c237-9d1e-48c2-a6a1-5d1c7665f9f4)
+
+![image](https://github.com/user-attachments/assets/8b0b1f6c-7fa1-46b0-8362-ea4b83aa7dce)
+
+![image](https://github.com/user-attachments/assets/fe07959e-e416-4c7d-a385-3771247a44a3)
+
+![image](https://github.com/user-attachments/assets/cdd1c990-90a8-48b1-a2cd-c3d1e42566a8)
 
 **Tools and Technologies:**
 
